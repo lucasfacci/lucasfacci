@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div style="display: inline">
-  <img height="185.0" src="https://github-readme-stats.vercel.app/api?username=lucasfacci&count_private=true&show_icons=true&theme=react" />
-  <img height="185.0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfacci&layout=compact&langs_count=8&theme=react" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=lucasfacci&count_private=true&show_icons=true&theme=react" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfacci&layout=compact&langs_count=8&theme=react" />
 </div>
